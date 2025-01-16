@@ -225,17 +225,6 @@
          "y":0
         }, 
         {
-         "draworder":"topdown",
-         "id":24,
-         "name":"floorLayer",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
          "id":13,
          "layers":[
                 {
@@ -1489,7 +1478,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"..\/Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/21_Beach_32x32.png",
+         "image":"Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/21_Beach_32x32.png",
          "imageheight":4000,
          "imagewidth":1024,
          "margin":0,
@@ -1502,7 +1491,7 @@
         {
          "columns":32,
          "firstgid":4001,
-         "image":"..\/Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/Animated_32x32\/Animated_Terrains_32x32\/Sea_Water_Tileset_No_Sand_Basic_32x32.png",
+         "image":"Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/Animated_Terrains_32x32\/Sea_Water_Tileset_No_Sand_Basic_32x32.png",
          "imageheight":128,
          "imagewidth":1024,
          "margin":0,
@@ -1552,7 +1541,7 @@
         {
          "columns":32,
          "firstgid":4129,
-         "image":"..\/Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/Animated_32x32\/Animated_Terrains_32x32\/Sea_Water_Tileset_Basic_32x32.png",
+         "image":"Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/Animated_Terrains_32x32\/Sea_Water_Tileset_Basic_32x32.png",
          "imageheight":128,
          "imagewidth":1024,
          "margin":0,
@@ -1602,7 +1591,7 @@
         {
          "columns":16,
          "firstgid":4257,
-         "image":"..\/Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/Animated_32x32\/Animated_Terrains_32x32\/Sea_Water_Tileset_Diagonals_32x32.png",
+         "image":"Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/Animated_Terrains_32x32\/Sea_Water_Tileset_Diagonals_32x32.png",
          "imageheight":128,
          "imagewidth":512,
          "margin":0,
@@ -1648,7 +1637,7 @@
         {
          "columns":32,
          "firstgid":4321,
-         "image":"..\/Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/7_Villas_32x32.png",
+         "image":"Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/7_Villas_32x32.png",
          "imageheight":1824,
          "imagewidth":1024,
          "margin":0,
@@ -1661,7 +1650,7 @@
         {
          "columns":32,
          "firstgid":6145,
-         "image":"..\/Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/1_Terrains_and_Fences_32x32.png",
+         "image":"Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/1_Terrains_and_Fences_32x32.png",
          "imageheight":2176,
          "imagewidth":1024,
          "margin":0,
@@ -1674,7 +1663,7 @@
         {
          "columns":32,
          "firstgid":8321,
-         "image":"..\/Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/17_Garden_32x32.png",
+         "image":"Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/17_Garden_32x32.png",
          "imageheight":6272,
          "imagewidth":1024,
          "margin":0,
@@ -1687,7 +1676,7 @@
         {
          "columns":32,
          "firstgid":14593,
-         "image":"..\/Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/12_Hotel_and_Hospital_32x32.png",
+         "image":"Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/12_Hotel_and_Hospital_32x32.png",
          "imageheight":1984,
          "imagewidth":1024,
          "margin":0,
@@ -1700,7 +1689,7 @@
         {
          "columns":32,
          "firstgid":16577,
-         "image":"..\/Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/11_Camping_32x32.png",
+         "image":"Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/11_Camping_32x32.png",
          "imageheight":5792,
          "imagewidth":1024,
          "margin":0,
@@ -1713,7 +1702,7 @@
         {
          "columns":32,
          "firstgid":22369,
-         "image":"..\/Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/14_Swimming_Pool_32x32.png",
+         "image":"Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/14_Swimming_Pool_32x32.png",
          "imageheight":992,
          "imagewidth":1024,
          "margin":0,
@@ -1726,7 +1715,7 @@
         {
          "columns":32,
          "firstgid":23361,
-         "image":"..\/Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/8_Worksite_32x32.png",
+         "image":"Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/8_Worksite_32x32.png",
          "imageheight":640,
          "imagewidth":1024,
          "margin":0,
@@ -1739,7 +1728,7 @@
         {
          "columns":32,
          "firstgid":24001,
-         "image":"..\/Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/9_Shopping_Center_and_Markets_32x32.png",
+         "image":"Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/9_Shopping_Center_and_Markets_32x32.png",
          "imageheight":2176,
          "imagewidth":1024,
          "margin":0,
