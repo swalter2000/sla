@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"MainExterior2.tmj"
+        }
+    },
  "height":100,
  "infinite":false,
  "layers":[
@@ -1746,6 +1754,19 @@
          "name":"9_Shopping_Center_and_Markets_32x32",
          "spacing":0,
          "tilecount":2176,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":32,
+         "firstgid":26177,
+         "image":"..\/Assets\/modernexteriors-win\/Modern_Exteriors_32x32\/ME_Theme_Sorter_32x32\/21_Beach_32x32.png",
+         "imageheight":4000,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"21_Beach_32x32",
+         "spacing":0,
+         "tilecount":4000,
          "tileheight":32,
          "tilewidth":32
         }],
