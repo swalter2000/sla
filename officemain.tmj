@@ -102270,7 +102270,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "officemain-chunk-1-f0e18207.png",
+      "image": "officemain-chunk-1-ad4177a4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -102318,7 +102318,24 @@
           "id": 100
         },
         {
-          "id": 101
+          "id": 101,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 101,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
         },
         {
           "id": 105
@@ -102361,7 +102378,7 @@
     {
       "columns": 9,
       "firstgid": 257,
-      "image": "officemain-chunk-2-f0e18207.png",
+      "image": "officemain-chunk-2-ad4177a4.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
@@ -102385,13 +102402,64 @@
           "id": 15
         },
         {
-          "id": 36
+          "id": 36,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
         },
         {
-          "id": 37
+          "id": 36,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
         },
         {
-          "id": 38
+          "id": 37,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
         }
       ]
     }
